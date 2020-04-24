@@ -1,6 +1,7 @@
 {
   "scripts": {
-    "commit-a": "git add . && git commit && git push"
+    "commit-a": "git add . && git commit && git push",
+    "start":"node index.js"
    
   },
   "dependencies": {
